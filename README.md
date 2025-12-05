@@ -8,7 +8,6 @@ A lightweight project that reads **broadcast football images**, detects players 
 - Splits players into **two teams** using jersey colour (HSV + KMeans).
 - Estimates team formations by clustering players into **defence–midfield–attack** lines.
 - Labels which team is **attacking** and which is **defending** based on vertical depth.
-- Flags **crowded / set-piece–like** situations using a simple spread heuristic.
 - Visualises everything on top of the original image.
 
 ---
