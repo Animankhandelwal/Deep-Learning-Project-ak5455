@@ -1,6 +1,6 @@
 # Tactical Formation Recognizer ⚽
 
-A lightweight project that reads **broadcast football images**, detects players using **YOLOv8n**, groups them into **two teams by jersey colour**, and estimates each team’s **formation** (e.g. `4-4-2`, `3-5-2`) and **role** (attacking vs defending). The output is an **annotated image** plus a short **tactical summary** for every frame.
+A  project that reads **broadcast football images**, detects players using **YOLOv8n**, groups them into **two teams by jersey colour**, and estimates each team’s **formation** (e.g. `4-4-2`, `3-5-2`) and **role** (attacking vs defending). The output is an **annotated image** plus a short **tactical summary** for every frame.
 
 ## 1. Features
 
